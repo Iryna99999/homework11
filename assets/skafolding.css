@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .body {
+    margin: 0px;
+  }
+  
+  .wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .wrapper2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    justify-content: space-between;
+    flex-direction: row;
+  }
+  
+  .footer {
+    text-align: center;
+    background-color:  #8a2bea;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }

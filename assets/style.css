@@ -1,0 +1,47 @@
+@import url(./skafolding.css);
+@import url(./skafolding.css);
+
+.h1 {
+  font-size: 50px;
+  color: #ffa500;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.main {
+  padding-bottom: 50px;
+  padding-top: 30px;
+  background-color: #ffa500;
+  margin-top: 10px;
+}
+
+.link {
+  font-size: 20px;
+  text-decoration: none;
+  color: #8a2bea;
+  text-transform: uppercase;
+  margin-left: 30px;
+}
+
+.link-active {
+  color: #ff0000;
+}
+
+.gallery {
+  font-size: 50px;
+  color: #ffa500;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.h2 {
+  font-size: 20px;
+  color: #ffa500;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-transform: uppercase;
+}
